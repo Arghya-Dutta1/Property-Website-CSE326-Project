@@ -27,7 +27,7 @@ body{
     font-style: italic;
 }
 .background{
-    background-image: url(/images/property_background.jpg);
+    background-image: url(images/property_background.jpg);
     /* background-repeat: no-repeat; */
     /* background-position: center; */
     background-size: cover;
